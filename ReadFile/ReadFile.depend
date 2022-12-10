@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602106425 source:c:\users\erict\documents\codeblocks\readfile\main.cpp
+	<iostream>
+	<fstream>
+

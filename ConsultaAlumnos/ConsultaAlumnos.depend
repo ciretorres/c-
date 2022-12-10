@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602182157 source:c:\users\erict\documents\codeblocks\consultaalumnos\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605131885 source:c:\users\erict\documents\codeblocks\calfinalestructura\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+

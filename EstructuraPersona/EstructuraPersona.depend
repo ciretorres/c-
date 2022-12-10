@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603908497 source:c:\users\erict\documents\codeblocks\estructurapersona\main.cpp
+	<iostream>
+	<iomanip>
+
